@@ -1,0 +1,20 @@
+{
+  "name": "weather_app",
+  "displayName": "weather_app",
+  "expo": {
+    "name": "weather_app",
+    "slug": "expo-template-bare",
+    "android": {
+      "package": "com.gostophabit.gostop"
+    },
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
